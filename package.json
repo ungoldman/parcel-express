@@ -1,0 +1,28 @@
+{
+  "name": "parcel-express",
+  "description": "Starter kit for working with parcel and express",
+  "version": "0.0.0",
+  "author": "Nate Goldman <ungoldman@gmail.com> (https://ungoldman.com/)",
+  "bugs": {
+    "url": "https://github.com/ungoldman/parcel-express/issues"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "parcel-bundler": "^1.12.3"
+  },
+  "devDependencies": {
+    "standard": "^12.0.1"
+  },
+  "homepage": "https://github.com/ungoldman/parcel-express#readme",
+  "license": "CC0-1.0",
+  "main": "client.js",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ungoldman/parcel-express.git"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "standard"
+  }
+}

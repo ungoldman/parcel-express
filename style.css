@@ -1,0 +1,13 @@
+html {
+  background:#eee;
+  color: #333;
+  font-family: sans-serif;
+}
+
+body {
+  background: #fff;
+  border: 1px solid #ccc;
+  margin: 100px auto;
+  padding: 1em 2em;
+  width: 600px;
+}
